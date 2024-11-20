@@ -1,0 +1,15 @@
+	y1	r1	
+1b.outlet_headline	         0	         0	
+2.outlet_headline	-.31451307	 .04438685	
+3.outlet_headline	-.21224829	 .04110614	
+4.outlet_headline	-.04773806	 .03436449	
+5.outlet_headline	-.25142947	 .04355168	
+6.outlet_headline	-.08063941	 .02717502	
+7.outlet_headline	-.18932728	 .03297849	
+1b.endorser_partisanship	         0	         0	
+2.endorser_partisanship	-.08242815	 .02473441	
+3.endorser_partisanship	-.02463309	 .03086291	
+1b.endorser_gender	         0	         0	
+2.endorser_gender	 .02474244	 .02236636	
+1b.endorser_religiosity	         0	         0	
+2.endorser_religiosity	-.02619137	  .0236923	
