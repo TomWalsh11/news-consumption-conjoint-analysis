@@ -6,7 +6,7 @@ This repository contains the analysis of conjoint survey data, focusing on the d
 
 ---
 
-## Folder Structure 📚
+## Folder Structure 🗂️
 
 - **`data/`**: Contains raw and processed data files used in the analysis. This includes datasets necessary for running the analysis.
 - **`outputs/`**: Stores the results from the analysis, including regression tables and visualizations.
@@ -14,7 +14,7 @@ This repository contains the analysis of conjoint survey data, focusing on the d
 
 ---
 
-## Contents 📂
+## Contents 📚
 
 ### `data/`
 - **`data.csv`**: The cleaned dataset containing the survey responses used for the conjoint analysis.
@@ -94,5 +94,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## **💬 Contact**
+## Contact 💬
 If you have questions, feel free to contact me at [tdjwalsh@hotmail.com](mailto:tdjwalsh@hotmail.com).
