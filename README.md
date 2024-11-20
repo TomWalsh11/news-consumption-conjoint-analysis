@@ -4,12 +4,31 @@
 
 This repository contains the analysis of conjoint survey data, focusing on the determinants of news consumption following the U.S. Supreme Court's decision to overturn *Roe v. Wade*. The analysis explores how factors like outlet headline framing, endorser partisanship, endorser gender, and endorser religiosity influence the likelihood of a news article being chosen by respondents. The results are presented through various statistical models and visualizations.
 
-## Contents 📁
+---
 
-- **`estimates.do`**: Stata script that estimates models, generates statistical outputs, and exports results for different subgroups (partisanship, religiosity, gender, etc.).
-- **`plots.R`**: R script that generates visualizations of the results using `ggplot2`, including figures for the overall analysis and by subgroups (partisanship, religiosity, gender).
+## Folder Structure 📚
+
+- **`data/`**: Contains raw and processed data files used in the analysis. This includes datasets necessary for running the analysis.
+- **`outputs/`**: Stores the results from the analysis, including regression tables and visualizations.
+- **`scripts/`**: Contains the Stata and R scripts used for running the analysis and generating outputs.
+
+---
+
+## Contents 📂
+
+### `data/`
+- **`data.csv`**: The cleaned dataset containing the survey responses used for the conjoint analysis.
+
+### `outputs/`
 - **`newschoice.txt`, `PartyID1.txt`, `PartyID2.txt`, etc.**: Text files containing the coefficient and standard error results from the Stata regression models, used as input for visualizations.
 - **`Table_1.rtf`, `Table_2.rtf`, etc.**: RTF files containing the regression tables for various models, formatted for easy inclusion in reports.
+- **Figures**: Plots generated from the R script, saved as PDFs showing the effect of each variable on the likelihood of article selection.
+
+### `scripts/`
+- **`estimates.do`**: Stata script that estimates models, generates statistical outputs, and exports results for different subgroups (partisanship, religiosity, gender, etc.).
+- **`plots.R`**: R script that generates visualizations of the results using `ggplot2`, including figures for the overall analysis and by subgroups (partisanship, religiosity, gender).
+
+---
 
 ## Getting Started 🚀
 
