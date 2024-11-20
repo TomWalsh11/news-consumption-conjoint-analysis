@@ -1,4 +1,4 @@
-# Conjoint Analysis of News Consumption: Roe v. Wade Overruling 📊
+# Conjoint Analysis of News Consumption in the United States 📊
 
 ## Overview 📖
 
